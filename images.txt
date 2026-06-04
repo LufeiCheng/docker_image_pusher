@@ -1,1 +1,1 @@
-appsmith/appsmith-ee:v1.71
+postgres:17-bookworm
